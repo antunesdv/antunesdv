@@ -1,44 +1,36 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7F00FF,100:A855F7&height=200&section=header&text=Antunes&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=65" />
+<img width="100%" src="assets/banner.svg" alt="ANTUNES - Full Stack Developer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Vue.js+%7C+Laravel+%26+Node.js;Solu%C3%A7%C3%B5es+Financeiras+%26+Pagamentos;Cloud+AWS+%2B+Terraform" alt="Typing SVG" />
+  <b>Construo sistemas de pagamento que aguentam pressão.</b><br/>
+  <code>PIX</code> · <code>ANTIFRAUDE</code> · <code>ALTA DISPONIBILIDADE</code> · <code>CLOUD</code>
 </p>
 
-## 💜 Sobre mim
-
-- 💻 Desenvolvedor **Full Stack** com foco em **React & Vue.js** no front e **Laravel & Node.js** no back
-- 💳 Especializado em **soluções financeiras**: pagamentos, PIX, antifraude e processamento de transações
-- ☁️ Infraestrutura na **AWS** com **Terraform**
-- 🌱 Sempre estudando arquitetura, performance e boas práticas
-
-## 🛠️ Tech Stack
+<img width="100%" src="assets/divider-stack.svg" alt="ARSENAL" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,vue,nodejs,tailwind,postgres,mysql,aws,terraform,docker,git,r&theme=dark&perline=8" alt="Tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/react_native-6D28D9.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
-  <img src="https://img.shields.io/badge/chart.js-6D28D9.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/REACT_NATIVE-07020F?style=for-the-badge&logo=react&logoColor=B026FF" alt="React Native" />
+  <img src="https://img.shields.io/badge/CHART.JS-07020F?style=for-the-badge&logo=chart.js&logoColor=B026FF" alt="Chart.js" />
 </p>
 
-## 📊 GitHub Stats
+<img width="100%" src="assets/divider-stats.svg" alt="POWER LEVEL" />
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=antunesdv&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A78BFA&text_color=C9D1D9&ring_color=7F00FF" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=antunesdv&hide_border=true&background=0D1117&ring=A855F7&fire=7F00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A855F7&sideLabels=A78BFA&dates=9CA3AF&stroke=4C1D95" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=antunesdv&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=07020F&title_color=B026FF&icon_color=7F00FF&text_color=E9D5FF&ring_color=B026FF" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=antunesdv&hide_border=true&background=07020F&ring=B026FF&fire=7F00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=B026FF&sideLabels=C4B5FD&dates=8B5CF6&stroke=2E0A5E" alt="GitHub streak" />
 </p>
 
-## 🏆 Troféus
+<img width="100%" src="assets/divider-grid.svg" alt="BATTLE LOG" />
 
 <p align="center">
-  <img src="https://github-profile-trophy-kappa.vercel.app/?username=antunesdv&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
+  <img width="100%" src="https://raw.githubusercontent.com/antunesdv/antunesdv/output/snake-dark.svg" alt="Contribution snake" />
 </p>
-
-## 📈 Atividade
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-two.vercel.app/graph?username=antunesdv&hide_border=true&bg_color=0D1117&color=A78BFA&line=A855F7&point=FFFFFF&area=true&area_color=7F00FF&title_color=A855F7" alt="Activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-two.vercel.app/graph?username=antunesdv&hide_border=true&bg_color=07020F&color=C4B5FD&line=B026FF&point=FFFFFF&area=true&area_color=7F00FF&title_color=B026FF" alt="Activity graph" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7F00FF,100:A855F7&height=120&section=footer" />
+<img width="100%" src="assets/footer.svg" alt="END OF TRANSMISSION" />
